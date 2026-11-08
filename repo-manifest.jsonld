@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/acl2025-con-instruction/commit/43124193a652b583c03a2123c74459177a1c5dba",
       "git:hexsha": "43124193a652b583c03a2123c74459177a1c5dba",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T18:42:18.651572+00:00"
     }
   ]
 }
